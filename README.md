@@ -3,13 +3,13 @@
 
 #### For network training: ```python3 main_ann.py```
 
-#### For weight saving: python3 saveweight.py
+#### For weight saving: ```python3 saveweight.py```
 
-#### For feature saving: python3 savefeature.py
+#### For feature saving: ```python3 savefeature.py```
 
-#### For video showing: python3 Quan_Result_video_show.py
+#### For video showing: ```python3 Quan_Result_video_show.py```
 
-#### For video writing: python3 Quan_Result_video_write.py
+#### For video writing: ```python3 Quan_Result_video_write.py```
 
 ### The detection results are as shown in the video *.avi. The weights and features of the network are saved in the directory ./data. And the Detection results of the test set are saved in the path ./result.
 
