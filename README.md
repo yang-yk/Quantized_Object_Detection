@@ -1,4 +1,4 @@
-### This is a demo for object detection using 8-bit quantization network without BN (Batch Normlization). The size of input image is 128*128. Please download the data from 'https://cloud.tsinghua.edu.cn/d/fa8c734b3ab043d49df5/'.  
+### This is a demo for object detection using 8-bit quantization network without BN (Batch Normalization). The size of input image is 128*128. Please download the data from 'https://cloud.tsinghua.edu.cn/d/fa8c734b3ab043d49df5/'.  
 
 
 #### For network training: ```python3 main_ann.py```
